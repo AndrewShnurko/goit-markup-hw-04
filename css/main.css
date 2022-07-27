@@ -359,7 +359,7 @@ fill: var(--title-accent-color);
 .main-clients {
     padding-top: 94px;
     padding-bottom: 94px;
-    text-align: center;
+   
 }
 
 .client-link:hover .client-icon,
@@ -397,7 +397,7 @@ color: #212121;
     margin-top: 50px;
     gap: 30px;
    justify-content: center;
-    
+    padding-bottom: 94px;
 }
 
 .div-footer {
@@ -407,7 +407,7 @@ color: #212121;
 
 
 .left-side-footer {
-
+margin-right: auto;
     margin-right: 70px;
 }
 
