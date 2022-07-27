@@ -404,7 +404,19 @@ color: #212121;
     display: flex;
   justify-content:  center;
     }
-    
+
+
+.left-side-footer {
+
+    margin-right: 70px;
+}
+
+.social-section {
+
+margin-top: 12px;
+margin-bottom: 100px;
+}
+
 .logo-footer {
     color: #FFFFFF;
     font-weight: 700;
@@ -424,9 +436,6 @@ letter-spacing: 0.03em;
 }
 
 
-.left-side-footer {
-    margin-right: 70px;
-}
 
 
 .adress {
