@@ -215,18 +215,24 @@ letter-spacing: 0.06em;
 
 .ab-list {
     width: 270px;
+
+}
+
+.ab-div {
+    width: 270px;
+    height: 120px;
+    background-color: #F5F4FA;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    text-align: center;
 }
 
 
 .ability-icon {
-width: 270px;
-height: 120px;
-background-color: #F5F4FA;
-margin-bottom: 30px;
-padding-top: 25px;
-padding-bottom: 25px;
-
+margin-top: 25px;
+display: flex;
 }
+
 .ab-list:not(:last-child) {
 margin-right: 30px; 
 }
@@ -417,6 +423,7 @@ color: #212121;
 
 .client-link {
     justify-content: center;
+    border-radius: 5px;
 }
 
 
@@ -442,7 +449,6 @@ margin-right: auto;
 .social-section {
 
 margin-top: 12px;
-margin-bottom: 100px;
 }
 
 .logo-footer {
@@ -463,6 +469,9 @@ letter-spacing: 0.03em;
    padding-bottom: 60px;
 }
 
+.footer-tel {
+    margin-top: 9px;
+}
 
 
 
